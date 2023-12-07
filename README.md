@@ -30,9 +30,9 @@ python app.py
 Navigate to localhost:8888 in your web browser to interact with the system.
 
 Data
-The system uses a dataset comprising user purchase history, product details, and user feedback. This data is sourced from [Data Source Name], and it can be obtained as follows:
+The system uses a dataset comprising user purchase history, product details, and user feedback. This data is sourced from Amazon grocery product datasets, and it can be obtained as follows:
 
-[Instructions to obtain and set up the data]
+Amazon reviews datasest
 
 Models and Algorithms
 We use collaborative filtering and content-based filtering techniques to provide recommendations. These methods were chosen for their effectiveness in understanding user preferences and suggesting relevant items.
